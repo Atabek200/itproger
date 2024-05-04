@@ -1,0 +1,17 @@
+* {
+    margin: 5px;
+    padding: 1px;
+    color: aliceblue;
+}
+
+.info {
+    position: relative;
+    outline: #f8f9fa;
+    text-decoration: none;
+    transform: none;
+}
+
+.container {
+    margin-top: 20px;
+    text-align: left;
+}
